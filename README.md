@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Spring Boot and Next.](https://restaurant-web-app-frontend.vercel.app/)
 
-- 🌱 I’m currently learning **Machine Learning and Artificial Intelligent for my master's degree.**
-
 - 👨‍💻 All of my projects are available at [https://wai30yan.github.io/personal-blog/](https://wai30yan.github.io/personal-blog/)
 
 - 📫 How to reach me **mr.waiyanmyint@gmail.com**
